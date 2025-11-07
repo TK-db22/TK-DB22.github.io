@@ -4,4 +4,5 @@
 Currently, HTML is being placed to display 3D models in the survey.
 
 「傘のオブジェクト」"3D model of an umbrella"
-https://github.com/TK-db22/TK-DB22.github.io/blob/main/sample-1.html
+
+https://tk-db22.github.io/3D-viewer-test/
